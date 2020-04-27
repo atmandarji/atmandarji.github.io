@@ -1,7 +1,7 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: Atman Darji
+subtitle: The official website of Atman J Darji
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
+  This website contains all the professional information about Atman Darji
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -13,81 +13,53 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact Me
       url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
 
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Web Designer and Developer
-author_email: "johndoe@gmail.com"
+author: Atman Darji
+author_bio: Software Development Engineer and Computer Science Lover!
+author_email: "atman.darji@gmail.com"
 author_location: India
-author_website_url: "http://johndoe.com"
+author_website_url: "http://atdarji.xyz"
 
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
+            - company_name: Clarisights
+              company_logo: clarisights.png
+              company_url: https://clarisights.com
               designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+              description: Worked as a backend engineer at Clarisights
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
+              - college_logo: daiict.png
+                college_name: DAIICT
+                college_url: https://daiict.ac.in
+                college_degree: ICT Engineer
                 description: Bachelor of Technology
                 visibility: true
 
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: flapai.png
+                project_title: FlapAI Bird
+                project_description: A flappy bird learning to fly with help of neuro evolution.
+                project_url: https://atmandarji.github.io/FlappyLearning/
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: atdarji
+github_username:  atmandarji
+facebook_username: atmandarji
+linkedin_username: atmandarji
+instagram_username: atdarji
 
 #for comments using disqus
-disqus_shortname: sujay-kundu
-
-# wakatime username (coding activity)
-wakatime_username: sujaykundu777
-
-# mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+disqus_shortname: atman-darji
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: atman.darji@gmail.com
 
 # syntax highlighter
 markdown: kramdown
